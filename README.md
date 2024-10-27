@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**muhammadfaizanhassan/muhammadfaizanhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Faizan**, a passionate Software Engineer with a strong interest in Machine Learning, Artificial Intelligence, and Data Science. I’m dedicated to staying at the forefront of technological advancements in these fields, leveraging my expertise to create innovative solutions. I specialize in:
 
-Here are some ideas to get you started:
+- Crafting elegant, effective code
+- Designing robust applications
+- Continuously improving and evolving my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Final Year Project
+
+### 🌱 Currently Learning
+- Machine Learning, Natural Language Processing (NLP), Deep Learning, Generative AI.
+
+
+
+Feel free to reach out if you’re interested in collaborating or just want to chat about tech!
+
