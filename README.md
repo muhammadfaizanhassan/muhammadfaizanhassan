@@ -68,7 +68,7 @@ I'm **Faizan**, a passionate Software Engineer with a strong interest in Machine
     <a href="www.linkedin.com/in/muhammadfaizanhassan" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" />
     </a>
-    <a href="mailto:talha404@proton.me" target="blank">
+    <a href="mailto:faizanhassan608@gmail.com" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" alt="Proton Mail" height="40" width="40" />
     </a>
 </p>
