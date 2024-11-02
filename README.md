@@ -1,21 +1,21 @@
 ## I’m Faizan!
 
-<h3> I’m a Software Engineer & Data Scientist</h3>
+<h6> Software Engineer & Data Scientist</h6>
 
 ## 💻 Expertise
-<p><p>Elegant, Efficient Code: Crafting clean, maintainable code is my mantra.</p>
-<p>Robust Application Design: I design applications that are both scalable and reliable.</p>
-<p>Data-Driven Decision Making: Leveraging data science skills to extract insights and drive impactful results.</p>
-<p>Continuous Learning: I’m always expanding my skillset to stay ahead in a rapidly evolving tech landscape.</p></p>
+<h6>Elegant, Efficient Code: Crafting clean, maintainable code is my mantra.</h6>
+<h6>Robust Application Design: I design applications that are both scalable and reliable.</h6>
+<h6>Data-Driven Decision Making: Leveraging data science skills to extract insights and drive impactful results.</h6>
+<h6>Continuous Learning: I’m always expanding my skillset to stay ahead in a rapidly evolving tech landscape.</h6>
 
 ## 🔭 What I'm Currently Working On
 
-<p>🚀 Final Year Project: Bringing together everything I’ve learned in an innovative, impactful project.</p>
+<h6>🚀 Final Year Project: Bringing together everything I’ve learned in an innovative, impactful project.</h6>
 
 ## 🌱 Current Learning Journey
 
-<p>Machine Learning, Natural Language Processing (NLP), Deep Learning, Generative AI
-Exploring cutting-edge AI fields to deepen my knowledge and application skills.</p>
+<h6>Machine Learning, Natural Language Processing (NLP), Deep Learning, Generative AI
+Exploring cutting-edge AI fields to deepen my knowledge and application skills.</h6>
 
 ## 🛠️ Languages & Tools
 
